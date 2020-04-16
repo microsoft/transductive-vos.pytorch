@@ -2,7 +2,7 @@
 
 <img src="figure/fig1.png" width = 60% height = 60%/>
 
-This repo contains the pytorch implementation for the CVPR 2020 paper [A Transductive Approach for Video Object Segmentation](link-to-arxiv).
+This repo contains the pytorch implementation for the CVPR 2020 paper [A Transductive Approach for Video Object Segmentation](https://arxiv.org/abs/2004.07193).
 
 ## Pretrained Models and Results
 
@@ -30,7 +30,7 @@ Our results on DAVIS17 and YouTube-VOS:
 - Clone this repo:
 
   ```shell
-  git clone https://github.com/path-to-released-repo
+  git clone https://github.com/microsoft/transductive-vos.pytorch
   ```
 
 - Prepare DAVIS 17 train-val dataset:
