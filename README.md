@@ -8,8 +8,8 @@ This repo contains the pytorch implementation for the CVPR 2020 paper [A Transdu
 
 We provide three pretrained models of ResNet50. They are trained from DAVIS 17 training set, combined DAVIS 17 training and validation set and YouTube-VOS training set.
 
-- [ResNet50-train](https://drive.google.com/open?id=1N5lanFvdRf4CgjjZX4uQU1MMiRinANz9)
-- [ResNet50-trainval](https://drive.google.com/open?id=1Zw7FOMXVcoOTczvLiyQ49ABEZRpIlfkR)
+- [Davis-train](https://drive.google.com/open?id=1SWZ20zTHgOpha0MlF8iOdqEHFkALdZn7)
+- [Davis-trainval](https://drive.google.com/open?id=14Qm8UEQG-rYYepDYzKPTc1KqISzQkT95)
 - [Youtube-train](https://drive.google.com/open?id=1U6sX9EUpOvDRFyaqDVpsi3plTnI2Witp)
 
 Our pre-computed results can be downloaded [here](https://drive.google.com/open?id=1QdKaeoMU7KaEp0TIXZZNLdgm9n8IOQOj).
