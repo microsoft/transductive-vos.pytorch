@@ -18,7 +18,6 @@ from lib.utils import AverageMeter, rgb2class, setup_logger
 
 SCALE = 0.125
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '4,5,6,7'
 def parse_options():
     parser = argparse.ArgumentParser()
     parser.add_argument('--frame_num', '-n', type=int, default=10,
